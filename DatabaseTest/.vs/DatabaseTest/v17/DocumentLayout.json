@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F79BAC0-3D1E-4FFC-A960-6F1BD621CBED}|DatabaseTest\\DatabaseTest.csproj|c:\\users\\jonat\\documents\\github\\random-stuff\\databasetest\\databasetest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F79BAC0-3D1E-4FFC-A960-6F1BD621CBED}|DatabaseTest\\DatabaseTest.csproj|solutionrelative:databasetest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F79BAC0-3D1E-4FFC-A960-6F1BD621CBED}|DatabaseTest\\DatabaseTest.csproj|c:\\users\\jonat\\documents\\github\\random-stuff\\databasetest\\databasetest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F79BAC0-3D1E-4FFC-A960-6F1BD621CBED}|DatabaseTest\\DatabaseTest.csproj|solutionrelative:databasetest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F79BAC0-3D1E-4FFC-A960-6F1BD621CBED}|DatabaseTest\\DatabaseTest.csproj|c:\\users\\jonat\\documents\\github\\random-stuff\\databasetest\\databasetest\\mongodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F79BAC0-3D1E-4FFC-A960-6F1BD621CBED}|DatabaseTest\\DatabaseTest.csproj|solutionrelative:databasetest\\mongodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F79BAC0-3D1E-4FFC-A960-6F1BD621CBED}|DatabaseTest\\DatabaseTest.csproj|c:\\users\\jonat\\documents\\github\\random-stuff\\databasetest\\databasetest\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F79BAC0-3D1E-4FFC-A960-6F1BD621CBED}|DatabaseTest\\DatabaseTest.csproj|solutionrelative:databasetest\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F79BAC0-3D1E-4FFC-A960-6F1BD621CBED}|DatabaseTest\\DatabaseTest.csproj|c:\\users\\jonat\\documents\\github\\random-stuff\\databasetest\\databasetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F79BAC0-3D1E-4FFC-A960-6F1BD621CBED}|DatabaseTest\\DatabaseTest.csproj|solutionrelative:databasetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F79BAC0-3D1E-4FFC-A960-6F1BD621CBED}|DatabaseTest\\DatabaseTest.csproj|c:\\users\\jonat\\documents\\github\\random-stuff\\databasetest\\databasetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F79BAC0-3D1E-4FFC-A960-6F1BD621CBED}|DatabaseTest\\DatabaseTest.csproj|solutionrelative:databasetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F79BAC0-3D1E-4FFC-A960-6F1BD621CBED}|DatabaseTest\\DatabaseTest.csproj|c:\\users\\jonat\\documents\\github\\random-stuff\\databasetest\\databasetest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6F79BAC0-3D1E-4FFC-A960-6F1BD621CBED}|DatabaseTest\\DatabaseTest.csproj|solutionrelative:databasetest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F79BAC0-3D1E-4FFC-A960-6F1BD621CBED}|DatabaseTest\\DatabaseTest.csproj|c:\\users\\jonat\\documents\\github\\random-stuff\\databasetest\\databasetest\\web.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6F79BAC0-3D1E-4FFC-A960-6F1BD621CBED}|DatabaseTest\\DatabaseTest.csproj|solutionrelative:databasetest\\web.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\DatabaseTest\\web.config",
+              "RelativeDocumentMoniker": "DatabaseTest\\web.config",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\DatabaseTest\\web.config",
+              "RelativeToolTip": "DatabaseTest\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-23T21:09:54.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\DatabaseTest\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseTest\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\DatabaseTest\\Program.cs",
+              "RelativeToolTip": "DatabaseTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:08:36.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\DatabaseTest\\MongoDAO.cs",
+              "RelativeDocumentMoniker": "DatabaseTest\\MongoDAO.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\DatabaseTest\\MongoDAO.cs",
+              "RelativeToolTip": "DatabaseTest\\MongoDAO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:04:39.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\DatabaseTest\\web.config",
+              "RelativeDocumentMoniker": "DatabaseTest\\web.config",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\DatabaseTest\\web.config",
+              "RelativeToolTip": "DatabaseTest\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-23T21:03:33.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\DatabaseTest\\appsettings.json",
+              "RelativeDocumentMoniker": "DatabaseTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\DatabaseTest\\appsettings.json",
+              "RelativeToolTip": "DatabaseTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T21:01:50.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\DatabaseTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DatabaseTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\DatabaseTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DatabaseTest\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:01:44.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\DatabaseTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DatabaseTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\DatabaseTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DatabaseTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T21:01:30.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\DatabaseTest\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "DatabaseTest\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\GitHub\\random-stuff\\DatabaseTest\\DatabaseTest\\Models\\Book.cs",
+              "RelativeToolTip": "DatabaseTest\\Models\\Book.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:17:58.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
